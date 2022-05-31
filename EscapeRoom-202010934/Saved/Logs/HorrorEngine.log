@@ -2543,3 +2543,1822 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.05.31-08.05.08:000][682]LogSavePackage: Moving '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/EscapeRoom4045C7F2478E7FB6A805129CBD69B7B8.tmp' to '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Content/HorrorEngine/Maps/EscapeRoom.umap'
 [2022.05.31-08.05.08:040][682]AssetCheck: New page: 에셋 저장:  EscapeRoom
 [2022.05.31-08.05.08:040][682]LogContentValidation: Display: World /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom 유효성 검사 중
+[2022.05.31-08.05.43:304][202]LogEditorViewport: Clicking on Actor (LMB): SecretOpen_C (SecretOpen)
+[2022.05.31-08.06.00:233][378]LogEditorViewport: Clicking on Actor (LMB): SecretOpen_C (SecretOpen)
+[2022.05.31-08.06.32:717][787]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.05.31-08.06.32:726][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-08.06.32:727][787]PIE: New page: PIE 세션: EscapeRoom (2022. 6. 1. 오전 2:06:32)
+[2022.05.31-08.06.32:727][787]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.06.32:838][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110631s)
+[2022.05.31-08.06.32:839][787]LogAIModule: Creating AISystem for world EscapeRoom
+[2022.05.31-08.06.32:840][787]LogPlayLevel: PIE: World Init took: (0.001959s)
+[2022.05.31-08.06.32:840][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom to /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom (0.112854s)
+[2022.05.31-08.06.32:883][787]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2022.05.31-08.06.32:896][787]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.05.31-08.06.32:896][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-08.06.32:896][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-08.06.32:896][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-08.06.32:896][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-08.06.32:896][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-08.06.32:896][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-08.06.32:896][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-08.06.32:896][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-08.06.32:897][787]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-08.06.32:897][787]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-08.06.32:897][787]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-08.06.32:897][787]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-08.06.32:899][787]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-08.06.32:899][787]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-08.06.32:966][787]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.05.31-08.06.32:967][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-08.06.32:967][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-08.06.32:967][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-08.06.32:967][787]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-08.06.32:967][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-08.06.32:967][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-08.06.32:968][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-08.06.32:968][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-08.06.32:968][787]LogInit: FAudioDevice initialized.
+[2022.05.31-08.06.32:968][787]LogAudio: Display: Audio Device (ID: 18) registered with world 'EscapeRoom'.
+[2022.05.31-08.06.32:977][787]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.05.31-08.06.32:999][787]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom up for play (max tick rate 0) at 2022.05.31-17.06.32
+[2022.05.31-08.06.32:999][787]LogWorld: Bringing up level for play took: 0.018780
+[2022.05.31-08.06.32:999][787]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.05.31-08.06.33:001][787]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.31-08.06.33:005][787]LogStreaming: Warning: Failed to read file '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.05.31-08.06.33:014][787]PIE: 서버가 로그인했습니다.
+[2022.05.31-08.06.33:015][787]PIE: 에디터에서 플레이 총 시작 시간 0.289초입니다.
+[2022.05.31-08.06.47:794][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.06.47:794][822]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.06.47:795][822]LogWorld: UWorld::CleanupWorld for EscapeRoom, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.06.47:799][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.06.47:813][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-08.06.47:830][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.06.47:907][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.06.47:910][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.06.47:911][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.06.47:943][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.05.31-08.06.47:985][823]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.05.31-08.06.53:906][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walter_Mask_Mesh)
+[2022.05.31-08.06.55:493][339]Cmd: DELETE
+[2022.05.31-08.06.55:493][339]Cmd: ACTOR DELETE
+[2022.05.31-08.06.55:510][339]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.31-08.06.55:551][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.05.31-08.06.55:555][339]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.05.31-08.07.42:635][121]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.05.31-08.07.42:645][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-08.07.42:645][121]PIE: New page: PIE 세션: EscapeRoom (2022. 6. 1. 오전 2:07:42)
+[2022.05.31-08.07.42:645][121]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.07.42:759][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113864s)
+[2022.05.31-08.07.42:760][121]LogAIModule: Creating AISystem for world EscapeRoom
+[2022.05.31-08.07.42:760][121]LogPlayLevel: PIE: World Init took: (0.002178s)
+[2022.05.31-08.07.42:761][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom to /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom (0.116337s)
+[2022.05.31-08.07.42:822][121]LogUObjectHash: Compacting FUObjectHashTables data took   8.44ms
+[2022.05.31-08.07.42:840][121]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.05.31-08.07.42:840][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-08.07.42:840][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-08.07.42:840][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-08.07.42:840][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-08.07.42:840][121]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-08.07.42:840][121]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-08.07.42:840][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-08.07.42:840][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-08.07.42:841][121]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-08.07.42:841][121]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-08.07.42:841][121]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-08.07.42:841][121]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-08.07.42:843][121]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-08.07.42:843][121]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-08.07.42:892][121]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.05.31-08.07.42:892][121]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-08.07.42:892][121]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-08.07.42:892][121]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-08.07.42:893][121]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-08.07.42:893][121]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-08.07.42:893][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-08.07.42:894][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-08.07.42:895][121]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-08.07.42:895][121]LogInit: FAudioDevice initialized.
+[2022.05.31-08.07.42:895][121]LogAudio: Display: Audio Device (ID: 19) registered with world 'EscapeRoom'.
+[2022.05.31-08.07.42:906][121]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.05.31-08.07.42:928][121]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom up for play (max tick rate 0) at 2022.05.31-17.07.42
+[2022.05.31-08.07.42:928][121]LogWorld: Bringing up level for play took: 0.019517
+[2022.05.31-08.07.42:928][121]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2022.05.31-08.07.42:930][121]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.31-08.07.42:934][121]LogStreaming: Warning: Failed to read file '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.05.31-08.07.42:941][121]PIE: 서버가 로그인했습니다.
+[2022.05.31-08.07.42:943][121]PIE: 에디터에서 플레이 총 시작 시간 0.3초입니다.
+[2022.05.31-08.07.46:146][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.07.46:146][310]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.07.46:148][310]LogWorld: UWorld::CleanupWorld for EscapeRoom, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.07.46:160][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.07.46:178][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-08.07.46:246][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.07.46:337][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-08.07.46:338][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.07.46:339][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.07.46:346][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.07.46:363][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2022.05.31-08.07.46:428][311]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2022.05.31-08.07.51:845][647]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.05.31-08.07.51:853][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-08.07.51:853][647]PIE: New page: PIE 세션: EscapeRoom (2022. 6. 1. 오전 2:07:51)
+[2022.05.31-08.07.51:892][647]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.07.51:968][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076088s)
+[2022.05.31-08.07.51:969][647]LogAIModule: Creating AISystem for world EscapeRoom
+[2022.05.31-08.07.51:970][647]LogPlayLevel: PIE: World Init took: (0.002251s)
+[2022.05.31-08.07.51:970][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom to /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom (0.078894s)
+[2022.05.31-08.07.52:023][647]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2022.05.31-08.07.52:028][647]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.05.31-08.07.52:028][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-08.07.52:028][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-08.07.52:028][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-08.07.52:028][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-08.07.52:028][647]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-08.07.52:028][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-08.07.52:028][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-08.07.52:028][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-08.07.52:029][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-08.07.52:029][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-08.07.52:029][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-08.07.52:029][647]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-08.07.52:032][647]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-08.07.52:032][647]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-08.07.52:090][647]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.05.31-08.07.52:090][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-08.07.52:091][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-08.07.52:091][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-08.07.52:091][647]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-08.07.52:091][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-08.07.52:091][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-08.07.52:093][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-08.07.52:093][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-08.07.52:093][647]LogInit: FAudioDevice initialized.
+[2022.05.31-08.07.52:093][647]LogAudio: Display: Audio Device (ID: 20) registered with world 'EscapeRoom'.
+[2022.05.31-08.07.52:100][647]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.05.31-08.07.52:123][647]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom up for play (max tick rate 0) at 2022.05.31-17.07.52
+[2022.05.31-08.07.52:124][647]LogWorld: Bringing up level for play took: 0.019235
+[2022.05.31-08.07.52:124][647]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2022.05.31-08.07.52:126][647]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.31-08.07.52:130][647]LogStreaming: Warning: Failed to read file '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.05.31-08.07.52:141][647]PIE: 서버가 로그인했습니다.
+[2022.05.31-08.07.52:142][647]PIE: 에디터에서 플레이 총 시작 시간 0.291초입니다.
+[2022.05.31-08.07.54:373][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.07.54:373][778]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.07.54:374][778]LogWorld: UWorld::CleanupWorld for EscapeRoom, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.07.54:383][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.07.54:397][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-08.07.54:436][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.07.54:508][778]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-08.07.54:509][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.07.54:511][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.07.54:521][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.07.54:541][778]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2022.05.31-08.07.54:597][779]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2022.05.31-08.08.00:095][105]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.05.31-08.08.00:102][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-08.08.00:103][105]PIE: New page: PIE 세션: EscapeRoom (2022. 6. 1. 오전 2:08:00)
+[2022.05.31-08.08.00:131][105]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.08.00:193][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061279s)
+[2022.05.31-08.08.00:194][105]LogAIModule: Creating AISystem for world EscapeRoom
+[2022.05.31-08.08.00:195][105]LogPlayLevel: PIE: World Init took: (0.001828s)
+[2022.05.31-08.08.00:195][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom to /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom (0.063516s)
+[2022.05.31-08.08.00:249][105]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2022.05.31-08.08.00:253][105]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.05.31-08.08.00:253][105]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-08.08.00:253][105]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-08.08.00:253][105]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-08.08.00:253][105]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-08.08.00:253][105]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-08.08.00:253][105]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-08.08.00:253][105]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-08.08.00:253][105]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-08.08.00:254][105]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-08.08.00:254][105]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-08.08.00:254][105]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-08.08.00:254][105]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-08.08.00:256][105]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-08.08.00:256][105]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-08.08.00:306][105]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.05.31-08.08.00:306][105]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-08.08.00:306][105]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-08.08.00:306][105]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-08.08.00:307][105]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-08.08.00:307][105]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-08.08.00:307][105]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-08.08.00:308][105]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-08.08.00:308][105]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-08.08.00:308][105]LogInit: FAudioDevice initialized.
+[2022.05.31-08.08.00:308][105]LogAudio: Display: Audio Device (ID: 21) registered with world 'EscapeRoom'.
+[2022.05.31-08.08.00:316][105]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.05.31-08.08.00:346][105]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom up for play (max tick rate 0) at 2022.05.31-17.08.00
+[2022.05.31-08.08.00:347][105]LogWorld: Bringing up level for play took: 0.026739
+[2022.05.31-08.08.00:347][105]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2022.05.31-08.08.00:350][105]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.31-08.08.00:355][105]LogStreaming: Warning: Failed to read file '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.05.31-08.08.00:367][105]PIE: 서버가 로그인했습니다.
+[2022.05.31-08.08.00:368][105]PIE: 에디터에서 플레이 총 시작 시간 0.266초입니다.
+[2022.05.31-08.08.33:014][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.08.33:014][909]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.08.33:016][909]LogWorld: UWorld::CleanupWorld for EscapeRoom, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.08.33:028][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.08.33:041][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-08.08.33:077][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.08.33:136][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-08.08.33:140][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.08.33:141][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.08.33:149][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.08.33:174][909]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2022.05.31-08.08.33:230][910]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2022.05.31-08.08.52:171][105]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.05.31-08.08.52:180][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-08.08.52:181][105]PIE: New page: PIE 세션: EscapeRoom (2022. 6. 1. 오전 2:08:52)
+[2022.05.31-08.08.52:203][105]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.08.52:315][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111728s)
+[2022.05.31-08.08.52:317][105]LogAIModule: Creating AISystem for world EscapeRoom
+[2022.05.31-08.08.52:317][105]LogPlayLevel: PIE: World Init took: (0.002095s)
+[2022.05.31-08.08.52:317][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom to /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom (0.114207s)
+[2022.05.31-08.08.52:366][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.05.31-08.08.52:371][105]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.05.31-08.08.52:371][105]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-08.08.52:371][105]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-08.08.52:371][105]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-08.08.52:371][105]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-08.08.52:371][105]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-08.08.52:371][105]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-08.08.52:371][105]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-08.08.52:371][105]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-08.08.52:371][105]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-08.08.52:371][105]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-08.08.52:371][105]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-08.08.52:371][105]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-08.08.52:373][105]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-08.08.52:373][105]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-08.08.52:404][105]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.05.31-08.08.52:404][105]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-08.08.52:404][105]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-08.08.52:404][105]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-08.08.52:404][105]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-08.08.52:404][105]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-08.08.52:404][105]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-08.08.52:406][105]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-08.08.52:406][105]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-08.08.52:406][105]LogInit: FAudioDevice initialized.
+[2022.05.31-08.08.52:406][105]LogAudio: Display: Audio Device (ID: 22) registered with world 'EscapeRoom'.
+[2022.05.31-08.08.52:416][105]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.05.31-08.08.52:456][105]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom up for play (max tick rate 0) at 2022.05.31-17.08.52
+[2022.05.31-08.08.52:457][105]LogWorld: Bringing up level for play took: 0.033370
+[2022.05.31-08.08.52:457][105]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2022.05.31-08.08.52:460][105]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.31-08.08.52:467][105]LogStreaming: Warning: Failed to read file '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.05.31-08.08.52:480][105]PIE: 서버가 로그인했습니다.
+[2022.05.31-08.08.52:481][105]PIE: 에디터에서 플레이 총 시작 시간 0.301초입니다.
+[2022.05.31-08.08.54:624][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.08.54:625][193]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.08.54:627][193]LogWorld: UWorld::CleanupWorld for EscapeRoom, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.08.54:638][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.08.54:650][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-08.08.54:696][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.08.54:786][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-08.08.54:788][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.08.54:792][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.08.54:806][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.08.54:830][193]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2022.05.31-08.08.54:890][194]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2022.05.31-08.08.59:018][424]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.05.31-08.08.59:027][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-08.08.59:028][424]PIE: New page: PIE 세션: EscapeRoom (2022. 6. 1. 오전 2:08:59)
+[2022.05.31-08.08.59:028][424]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.08.59:129][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100301s)
+[2022.05.31-08.08.59:130][424]LogAIModule: Creating AISystem for world EscapeRoom
+[2022.05.31-08.08.59:130][424]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2022.05.31-08.08.59:130][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom to /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom (0.102033s)
+[2022.05.31-08.08.59:180][424]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2022.05.31-08.08.59:183][424]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.05.31-08.08.59:184][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-08.08.59:184][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-08.08.59:184][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-08.08.59:184][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-08.08.59:184][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-08.08.59:184][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-08.08.59:184][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-08.08.59:184][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-08.08.59:184][424]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-08.08.59:184][424]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-08.08.59:184][424]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-08.08.59:185][424]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-08.08.59:187][424]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-08.08.59:187][424]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-08.08.59:248][424]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.05.31-08.08.59:248][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-08.08.59:248][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-08.08.59:248][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-08.08.59:249][424]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-08.08.59:249][424]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-08.08.59:249][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-08.08.59:251][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-08.08.59:251][424]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-08.08.59:252][424]LogInit: FAudioDevice initialized.
+[2022.05.31-08.08.59:252][424]LogAudio: Display: Audio Device (ID: 23) registered with world 'EscapeRoom'.
+[2022.05.31-08.08.59:260][424]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.05.31-08.08.59:284][424]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom up for play (max tick rate 0) at 2022.05.31-17.08.59
+[2022.05.31-08.08.59:284][424]LogWorld: Bringing up level for play took: 0.019912
+[2022.05.31-08.08.59:284][424]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2022.05.31-08.08.59:286][424]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.31-08.08.59:290][424]LogStreaming: Warning: Failed to read file '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.05.31-08.08.59:297][424]PIE: 서버가 로그인했습니다.
+[2022.05.31-08.08.59:298][424]PIE: 에디터에서 플레이 총 시작 시간 0.272초입니다.
+[2022.05.31-08.10.00:445][268]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/HorrorEngine/Audio/DoorsAndFurnitures/DoorHit_Cue.DoorHit_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.05.31-08.10.19:843][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.10.19:843][512]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.10.19:845][512]LogWorld: UWorld::CleanupWorld for EscapeRoom, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.10.19:858][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.10.19:871][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-08.10.19:909][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.10.19:980][512]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-08.10.19:983][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.10.19:984][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.10.19:996][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.10.20:020][512]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2022.05.31-08.10.20:073][513]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2022.05.31-08.10.24:667][792]LogEditorViewport: Clicking on Actor (LMB): SecretOpen_C (SecretOpen)
+[2022.05.31-08.10.54:313][254]BlueprintLog: New page: SecretOpen 컴파일
+[2022.05.31-08.10.54:444][254]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2022.05.31-08.10.55:033][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tmp/SecretOpen" FILE="../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Content/tmp/SecretOpen.uasset" SILENT=true
+[2022.05.31-08.10.55:051][272]LogSavePackage: Moving '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SecretOpenC927301A41FE5632C8327F97C83DEDBA.tmp' to '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Content/tmp/SecretOpen.uasset'
+[2022.05.31-08.10.55:070][272]AssetCheck: New page: 에셋 저장:  SecretOpen
+[2022.05.31-08.10.55:070][272]LogContentValidation: Display: Blueprint /Game/tmp/SecretOpen.SecretOpen 유효성 검사 중
+[2022.05.31-08.10.57:026][371]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.05.31-08.10.57:036][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-08.10.57:036][371]PIE: New page: PIE 세션: EscapeRoom (2022. 6. 1. 오전 2:10:57)
+[2022.05.31-08.10.57:069][371]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.10.57:160][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091484s)
+[2022.05.31-08.10.57:162][371]LogAIModule: Creating AISystem for world EscapeRoom
+[2022.05.31-08.10.57:162][371]LogPlayLevel: PIE: World Init took: (0.001860s)
+[2022.05.31-08.10.57:162][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom to /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom (0.093728s)
+[2022.05.31-08.10.57:208][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.05.31-08.10.57:210][371]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.05.31-08.10.57:210][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-08.10.57:210][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-08.10.57:210][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-08.10.57:210][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-08.10.57:210][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-08.10.57:210][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-08.10.57:210][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-08.10.57:210][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-08.10.57:211][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-08.10.57:211][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-08.10.57:211][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-08.10.57:211][371]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-08.10.57:212][371]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-08.10.57:212][371]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-08.10.57:245][371]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.05.31-08.10.57:245][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-08.10.57:245][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-08.10.57:245][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-08.10.57:245][371]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-08.10.57:245][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-08.10.57:246][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-08.10.57:247][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-08.10.57:247][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-08.10.57:247][371]LogInit: FAudioDevice initialized.
+[2022.05.31-08.10.57:247][371]LogAudio: Display: Audio Device (ID: 24) registered with world 'EscapeRoom'.
+[2022.05.31-08.10.57:258][371]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.05.31-08.10.57:289][371]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom up for play (max tick rate 0) at 2022.05.31-17.10.57
+[2022.05.31-08.10.57:290][371]LogWorld: Bringing up level for play took: 0.027659
+[2022.05.31-08.10.57:290][371]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2022.05.31-08.10.57:293][371]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.31-08.10.57:298][371]LogStreaming: Warning: Failed to read file '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.05.31-08.10.57:310][371]PIE: 서버가 로그인했습니다.
+[2022.05.31-08.10.57:311][371]PIE: 에디터에서 플레이 총 시작 시간 0.276초입니다.
+[2022.05.31-08.11.11:918][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.11.11:918][282]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.11.11:919][282]LogWorld: UWorld::CleanupWorld for EscapeRoom, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.11.11:923][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.11.11:935][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-08.11.11:969][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.11.12:107][282]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-08.11.12:110][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.11.12:114][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.11.12:141][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.11.12:195][282]LogUObjectHash: Compacting FUObjectHashTables data took  16.62ms
+[2022.05.31-08.11.12:310][283]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2022.05.31-08.12.26:415][ 48]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\SW\Downloads\2.png)
+[2022.05.31-08.12.26:450][ 48]LogTexture: Display: 텍스처 빌드: 2 (BGRA8, 800X818)
+[2022.05.31-08.12.33:409][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥287)
+[2022.05.31-08.12.35:873][552]LogMaterial: Display: Missing cached shadermap for 2_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 100802D277AEB72AD64C230F30CBD23C4455E70C), compiling. 
+[2022.05.31-08.12.35:973][553]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.31-08.12.35:973][553]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.05.31-08.12.35:973][553]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.05.31-08.12.35:973][553]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.31-08.12.35:973][553]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.35:973][553]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.05.31-08.12.35:973][553]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.05.31-08.12.35:974][553]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.37:190][599]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2022.05.31-08.12.37:191][599]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.37:201][599]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.31-08.12.37:202][599]LogShaderCompilers: Display: Total job queries 29210, among them cache hits 28076 (96.12%)
+[2022.05.31-08.12.37:202][599]LogShaderCompilers: Display: Tracking 1119 distinct input hashes that result in 468 distinct outputs (41.82%)
+[2022.05.31-08.12.37:202][599]LogShaderCompilers: Display: RAM used: 3.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.37%
+[2022.05.31-08.12.37:202][599]LogShaderCompilers: Display: ================================================
+[2022.05.31-08.12.37:616][617]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.05.31-08.12.37:616][617]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.39:658][696]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.05.31-08.12.39:658][696]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.39:725][698]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.05.31-08.12.39:725][698]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.46:617][995]LogContentBrowser: Deferred new asset file creation: 2_Mat1
+[2022.05.31-08.12.46:639][995]LogContentBrowser: Creating deferred item: 2_Mat1
+[2022.05.31-08.12.47:980][ 74]LogContentBrowser: Attempting asset rename: 2_Mat1 -> 2_Mat1
+[2022.05.31-08.12.47:990][ 74]LogMaterial: Display: Missing cached shadermap for 2_Mat1 in PCD3D_SM5, Default, SM5 (DDC key hash: 65025BB8BEB7A917218F3A54015D7B1EF25CCDB7), compiling. 
+[2022.05.31-08.12.48:006][ 74]LogContentBrowser: End creating deferred item 2_Mat1
+[2022.05.31-08.12.48:051][ 76]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.31-08.12.48:065][ 76]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.05.31-08.12.48:065][ 76]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.05.31-08.12.48:065][ 76]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.31-08.12.48:068][ 76]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.48:070][ 76]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.05.31-08.12.48:070][ 76]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.05.31-08.12.48:070][ 76]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.49:019][104]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2022.05.31-08.12.49:019][104]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.49:399][116]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.05.31-08.12.49:399][116]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.50:575][150]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/2_Mat1.2_Mat1
+[2022.05.31-08.12.50:580][150]LogMaterial: Display: Missing cached shadermap for 2_Mat1 in PCD3D_SM5, Default, SM5 (DDC key hash: 33D5C55D563ED20D9779C49C6C41AD4285CA956C), compiling. 
+[2022.05.31-08.12.50:748][150]LogMaterial: Display: Missing cached shadermap for 2_Mat1 in PCD3D_SM5, Default, SM5 (DDC key hash: 77C2281057A4FEDE30B7C5FE121082E93CBB1976), compiling. 
+[2022.05.31-08.12.50:753][150]LogMaterial: Display: Missing cached shadermap for 2_Mat1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7631561CFEF443CA21CDD2772048E1931200640A), compiling. 
+[2022.05.31-08.12.50:757][150]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 88B4924D9CB6EB7610E0F57FB4FC2F8AC210ECF9), compiling. 
+[2022.05.31-08.12.50:775][150]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.31-08.12.50:775][150]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.05.31-08.12.50:775][150]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.31-08.12.50:973][150]LogSlate: Took 0.013350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.31-08.12.51:006][151]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.31-08.12.51:006][151]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.05.31-08.12.51:007][151]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.31-08.12.51:162][154]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.31-08.12.51:302][158]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.05.31-08.12.51:302][158]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.31-08.12.51:370][160]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.05.31-08.12.51:370][160]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.31-08.12.51:678][168]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.05.31-08.12.51:678][168]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.52:277][186]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.05.31-08.12.52:277][186]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.12.53:208][226]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.05.31-08.12.53:208][226]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.05.31-08.12.53:208][226]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.31-08.12.53:208][226]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.31-08.12.53:208][226]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.05.31-08.12.53:208][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.31-08.12.58:780][474]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.12.58:780][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.13.04:632][755]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2022.05.31-08.13.06:877][755]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.31-08.13.07:108][755]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/2.2
+	Asset Name: /Game/2_Mat.2_Mat
+	Asset Name: /Game/2_Mat1.2_Mat1
+[2022.05.31-08.13.20:648][755]LogMaterial: Display: Missing cached shadermap for 2_Mat1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4FE1D543A699994E6DBB6893F80E7D41FA02EC68), compiling. 
+[2022.05.31-08.13.20:648][755]LogMaterial: Warning: [AssetLog] /Game/2_Mat1.2_Mat1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.31-08.13.20:648][755]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.31-08.13.20:650][755]LogMaterial: Display: Missing cached shadermap for 2_Mat1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4FE1D543A699994E6DBB6893F80E7D41FA02EC68), compiling. 
+[2022.05.31-08.13.20:651][755]LogMaterial: Warning: [AssetLog] /Game/2_Mat1.2_Mat1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.31-08.13.20:651][755]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.31-08.13.20:652][755]LogMaterial: Display: Missing cached shadermap for 2_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 14FDCB3F4D4D3C23BDDC96C630BCC46420F3568C), compiling. 
+[2022.05.31-08.13.20:654][755]LogMaterial: Warning: [AssetLog] /Game/2_Mat.2_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.31-08.13.20:654][755]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.31-08.13.20:655][755]LogMaterial: Display: Missing cached shadermap for 2_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 14FDCB3F4D4D3C23BDDC96C630BCC46420F3568C), compiling. 
+[2022.05.31-08.13.20:655][755]LogMaterial: Warning: [AssetLog] /Game/2_Mat.2_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.31-08.13.20:655][755]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.31-08.13.20:874][755]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2022.05.31-08.16.25:149][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\SW\Downloads\pngtree-magic-array-brilliant-elements-png-image_972058.jpg)
+[2022.05.31-08.16.25:160][544]LogTexture: Display: 텍스처 빌드: pngtree-magic-array-brilliant-elements-png-image_972058 (OODLE_AutoDXT, 360X360)
+[2022.05.31-08.16.28:843][715]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/pngtree-magic-array-brilliant-elements-png-image_972058.pngtree-magic-array-brilliant-elements-png-image_972058
+[2022.05.31-08.16.28:899][715]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2022.05.31-08.16.38:661][228]LogSlate: Window 'pngtree-magic-array-brilliant-elements-png-image_972058' being destroyed
+[2022.05.31-08.16.38:673][228]LogSlate: Window 'pngtree-magic-array-brilliant-elements-png-image_972058' being destroyed
+[2022.05.31-08.16.38:681][228]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.16.38:681][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.16.38:919][228]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.31-08.16.38:919][228]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.16.38:919][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.16.39:061][228]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.16.39:061][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.16.40:619][319]LogMaterial: Display: Missing cached shadermap for pngtree-magic-array-brilliant-elements-png-image_972058_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CA54871EBD0E9BAF046E484CD3BE7ACE71E0B5ED), compiling. 
+[2022.05.31-08.16.40:707][320]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.31-08.16.40:707][320]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.05.31-08.16.40:707][320]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.05.31-08.16.40:707][320]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.31-08.16.40:707][320]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.05.31-08.16.40:707][320]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.05.31-08.16.40:707][320]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.05.31-08.16.40:707][320]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.16.41:708][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2022.05.31-08.16.41:708][362]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.16.41:713][362]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.31-08.16.41:713][362]LogShaderCompilers: Display: Total job queries 29274, among them cache hits 28090 (95.96%)
+[2022.05.31-08.16.41:713][362]LogShaderCompilers: Display: Tracking 1153 distinct input hashes that result in 480 distinct outputs (41.63%)
+[2022.05.31-08.16.41:713][362]LogShaderCompilers: Display: RAM used: 3.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.38%
+[2022.05.31-08.16.41:713][362]LogShaderCompilers: Display: ================================================
+[2022.05.31-08.16.42:039][382]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.05.31-08.16.42:039][382]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.16.43:777][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.05.31-08.16.43:777][487]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.16.43:778][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.05.31-08.16.43:778][487]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.16.48:288][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥287)
+[2022.05.31-08.16.51:330][ 68]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom:PersistentLevel.바닥287_5920.StaticMeshComponent0)
+[2022.05.31-08.16.51:373][ 71]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom:PersistentLevel.바닥287_5920.StaticMeshComponent0)
+[2022.05.31-08.16.53:148][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥287)
+[2022.05.31-08.16.55:020][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥287)
+[2022.05.31-08.16.57:345][513]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/pngtree-magic-array-brilliant-elements-png-image_972058_Mat.pngtree-magic-array-brilliant-elements-png-image_972058_Mat
+[2022.05.31-08.16.57:348][513]LogMaterial: Display: Missing cached shadermap for pngtree-magic-array-brilliant-elements-png-image_972058_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3ED1CC277028BA4ECFD6994915DE1913EBACABF8), compiling. 
+[2022.05.31-08.16.57:515][513]LogMaterial: Display: Missing cached shadermap for pngtree-magic-array-brilliant-elements-png-image_972058_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 26F1BE1DD477342D4BF3A5323E142B980EF83594), compiling. 
+[2022.05.31-08.16.57:518][513]LogMaterial: Display: Missing cached shadermap for pngtree-magic-array-brilliant-elements-png-image_972058_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B7744C93533F159DC0B58EE1E13D49336D013379), compiling. 
+[2022.05.31-08.16.57:522][513]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CB8EAA1AB85FD3385D2DC56C50EB9FE5B7B380EF), compiling. 
+[2022.05.31-08.16.57:540][513]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.31-08.16.57:540][513]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.05.31-08.16.57:540][513]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.31-08.16.57:664][515]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.05.31-08.16.57:664][515]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.05.31-08.16.57:664][515]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.31-08.16.57:664][515]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.31-08.16.57:664][515]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.05.31-08.16.57:664][515]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.31-08.17.05:629][943]LogSlate: Window 'pngtree-magic-array-brilliant-elements-png-image_972058_Mat' being destroyed
+[2022.05.31-08.17.05:643][943]LogSlate: Window 'pngtree-magic-array-brilliant-elements-png-image_972058_Mat' being destroyed
+[2022.05.31-08.17.05:649][943]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.17.05:649][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.17.06:280][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥287)
+[2022.05.31-08.17.06:610][ 20]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (바닥287)
+[2022.05.31-08.17.07:626][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥287)
+[2022.05.31-08.17.12:294][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥287)
+[2022.05.31-08.17.14:360][607]Cmd: TRANSACTION UNDO
+[2022.05.31-08.17.14:360][607]LogEditorTransaction: Undo 액터 스케일
+[2022.05.31-08.17.42:273][  3]LogUObjectHash: Compacting FUObjectHashTables data took  15.06ms
+[2022.05.31-08.17.42:668][  3]LogSavePackage: Moving '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/EscapeRoom_Auto19A8F59514CC4A48E4EC4B68490F35EFC.tmp' to '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/Autosaves/Game/HorrorEngine/Maps/EscapeRoom_Auto1.umap'
+[2022.05.31-08.17.42:672][  3]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorEngine/Maps/EscapeRoom' took 0.806
+[2022.05.31-08.17.42:672][  3]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.806
+[2022.05.31-08.17.42:681][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pngtree-magic-array-brilliant-elements-png-image_972058] ([1] browsable assets)...
+[2022.05.31-08.17.42:693][  3]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/pngtree-magic-array-brilliant-elements-png-image_972058.pngtree-magic-array-brilliant-elements-png-image_972058]
+[2022.05.31-08.17.42:693][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/pngtree-magic-array-brilliant-elements-png-image_972058]
+[2022.05.31-08.17.42:703][  3]LogSavePackage: Moving '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/pngtree-magic-array-brilliant-el9857504942D9A68E8FF1F489A2FD0F04.tmp' to '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/Autosaves/Game/pngtree-magic-array-brilliant-elements-png-image_972058_Auto1.uasset'
+[2022.05.31-08.17.42:705][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pngtree-magic-array-brilliant-elements-png-image_972058_Mat] ([1] browsable assets)...
+[2022.05.31-08.17.42:746][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Game/pngtree-magic-array-brilliant-elements-png-image_972058_Mat.pngtree-magic-array-brilliant-elements-png-image_972058_Mat]
+[2022.05.31-08.17.42:746][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/pngtree-magic-array-brilliant-elements-png-image_972058_Mat]
+[2022.05.31-08.17.42:763][  3]LogSavePackage: Moving '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/pngtree-magic-array-brilliant-el97C5272F4554EF269BB31E81BDC83E1B.tmp' to '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/Autosaves/Game/pngtree-magic-array-brilliant-elements-png-image_972058_Mat_Auto1.uasset'
+[2022.05.31-08.17.42:765][  3]LogFileHelpers: Auto-saving content packages took 0.085
+[2022.05.31-08.17.49:470][199]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\SW\Downloads\3a308d3c6eef90b5ecd941b76b94d6c1.jpg)
+[2022.05.31-08.17.49:477][199]LogTexture: Display: 텍스처 빌드: 3a308d3c6eef90b5ecd941b76b94d6c1 (OODLE_AutoDXT, 420X404)
+[2022.05.31-08.17.52:781][339]LogContentBrowser: Deferred new asset file creation: 3a308d3c6eef90b5ecd941b76b94d6c1_Mat
+[2022.05.31-08.17.52:813][339]LogContentBrowser: Creating deferred item: 3a308d3c6eef90b5ecd941b76b94d6c1_Mat
+[2022.05.31-08.17.54:108][436]LogContentBrowser: Attempting asset rename: 3a308d3c6eef90b5ecd941b76b94d6c1_Mat -> 3a308d3c6eef90b5ecd941b76b94d6c1_Mat
+[2022.05.31-08.17.54:110][436]LogMaterial: Display: Missing cached shadermap for 3a308d3c6eef90b5ecd941b76b94d6c1_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 225397BB0FF4D83D8F585E30A0CE48499393F310), compiling. 
+[2022.05.31-08.17.54:120][436]LogContentBrowser: End creating deferred item 3a308d3c6eef90b5ecd941b76b94d6c1_Mat
+[2022.05.31-08.17.54:149][438]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.31-08.17.54:154][438]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.05.31-08.17.54:154][438]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.05.31-08.17.54:154][438]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.31-08.17.54:171][438]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.05.31-08.17.54:182][438]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.05.31-08.17.54:182][438]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.05.31-08.17.54:182][438]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.17.55:525][502]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2022.05.31-08.17.55:525][502]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.17.55:929][523]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.05.31-08.17.55:929][523]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.17.57:829][623]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.05.31-08.17.57:829][623]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.17.57:889][626]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.05.31-08.17.57:890][626]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.31-08.18.04:483][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥287)
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: Scale for /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom:PersistentLevel.바닥287_5920.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: Scale for /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom:PersistentLevel.바닥287_5920.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.33:431][393]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2022.05.31-08.18.42:754][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥287)
+[2022.05.31-08.18.46:607][344]Cmd: TRANSACTION UNDO
+[2022.05.31-08.18.46:608][344]LogEditorTransaction: Undo 스케일 설정
+[2022.05.31-08.18.46:891][351]Cmd: TRANSACTION UNDO
+[2022.05.31-08.18.46:891][351]LogEditorTransaction: Undo 스케일 설정
+[2022.05.31-08.18.46:892][351]LogPhysics: Warning: Scale for /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom:PersistentLevel.바닥287_5920.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2022.05.31-08.18.46:892][351]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.46:892][351]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.05.31-08.18.46:892][351]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.46:892][351]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2022.05.31-08.18.46:892][351]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.46:892][351]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2022.05.31-08.18.46:892][351]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.05.31-08.18.46:892][351]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2022.05.31-08.18.47:140][357]Cmd: TRANSACTION UNDO
+[2022.05.31-08.18.47:140][357]LogEditorTransaction: Undo 스케일 설정
+[2022.05.31-08.18.47:314][368]Cmd: TRANSACTION UNDO
+[2022.05.31-08.18.47:314][368]LogEditorTransaction: Undo 스케일 설정
+[2022.05.31-08.18.47:726][396]Cmd: TRANSACTION UNDO
+[2022.05.31-08.18.47:727][396]LogEditorTransaction: Undo 스케일 설정
+[2022.05.31-08.18.48:193][420]Cmd: TRANSACTION UNDO
+[2022.05.31-08.18.48:193][420]LogEditorTransaction: Undo 스케일 설정
+[2022.05.31-08.18.48:660][447]Cmd: TRANSACTION UNDO
+[2022.05.31-08.18.48:660][447]LogEditorTransaction: Undo 스케일 설정
+[2022.05.31-08.18.49:281][484]Cmd: TRANSACTION UNDO
+[2022.05.31-08.18.49:282][484]LogEditorTransaction: Undo 액터 스케일
+[2022.05.31-08.18.51:353][631]Cmd: TRANSACTION UNDO
+[2022.05.31-08.18.51:353][631]LogEditorTransaction: Undo 액터 이동
+[2022.05.31-08.18.55:021][880]LogActorFactory: Actor Factory created Cube
+[2022.05.31-08.18.55:914][943]LogActorFactory: Actor Factory created Cube
+[2022.05.31-08.18.59:998][270]Cmd: DELETE
+[2022.05.31-08.18.59:999][270]Cmd: ACTOR DELETE
+[2022.05.31-08.19.00:023][270]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.31-08.19.00:193][270]LogUObjectHash: Compacting FUObjectHashTables data took  10.52ms
+[2022.05.31-08.19.00:216][270]LogEditorActor: Deleted 1 Actors (0.218 secs)
+[2022.05.31-08.19.01:723][385]LogActorFactory: Actor Factory created Plane
+[2022.05.31-08.19.03:527][551]LogActorFactory: Actor Factory created Plane
+[2022.05.31-08.19.12:696][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.05.31-08.19.18:575][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.05.31-08.19.26:547][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥287)
+[2022.05.31-08.19.28:776][560]Cmd: DELETE
+[2022.05.31-08.19.28:776][560]Cmd: ACTOR DELETE
+[2022.05.31-08.19.28:792][560]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.31-08.19.28:824][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.05.31-08.19.28:833][560]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2022.05.31-08.19.29:627][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.05.31-08.19.52:712][543]LogActorFactory: Actor Factory created Cylinder
+[2022.05.31-08.20.01:018][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.05.31-08.20.40:160][419]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.05.31-08.20.40:167][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-08.20.40:167][419]PIE: New page: PIE 세션: EscapeRoom (2022. 6. 1. 오전 2:20:40)
+[2022.05.31-08.20.40:167][419]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.20.40:241][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074581s)
+[2022.05.31-08.20.40:242][419]LogAIModule: Creating AISystem for world EscapeRoom
+[2022.05.31-08.20.40:243][419]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2022.05.31-08.20.40:243][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom to /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom (0.076428s)
+[2022.05.31-08.20.40:280][419]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2022.05.31-08.20.40:296][419]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.05.31-08.20.40:296][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-08.20.40:296][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-08.20.40:296][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-08.20.40:296][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-08.20.40:296][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-08.20.40:296][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-08.20.40:296][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-08.20.40:296][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-08.20.40:297][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-08.20.40:297][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-08.20.40:297][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-08.20.40:297][419]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-08.20.40:300][419]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-08.20.40:300][419]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-08.20.40:366][419]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.05.31-08.20.40:367][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-08.20.40:367][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-08.20.40:367][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-08.20.40:368][419]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-08.20.40:368][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-08.20.40:368][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-08.20.40:371][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-08.20.40:371][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-08.20.40:371][419]LogInit: FAudioDevice initialized.
+[2022.05.31-08.20.40:371][419]LogAudio: Display: Audio Device (ID: 25) registered with world 'EscapeRoom'.
+[2022.05.31-08.20.40:379][419]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.05.31-08.20.40:405][419]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom up for play (max tick rate 0) at 2022.05.31-17.20.40
+[2022.05.31-08.20.40:405][419]LogWorld: Bringing up level for play took: 0.021401
+[2022.05.31-08.20.40:405][419]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2022.05.31-08.20.40:407][419]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.31-08.20.40:411][419]LogStreaming: Warning: Failed to read file '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.05.31-08.20.40:419][419]PIE: 서버가 로그인했습니다.
+[2022.05.31-08.20.40:420][419]PIE: 에디터에서 플레이 총 시작 시간 0.254초입니다.
+[2022.05.31-08.20.47:983][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.20.47:983][934]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.20.47:985][934]LogWorld: UWorld::CleanupWorld for EscapeRoom, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.20.48:002][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.20.48:029][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-08.20.48:106][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.20.48:195][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.20.48:209][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.20.48:212][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.20.48:271][934]LogUObjectHash: Compacting FUObjectHashTables data took  12.25ms
+[2022.05.31-08.20.48:392][935]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2022.05.31-08.21.08:957][671]LogEditorViewport: Clicking on Actor (LMB): Candle_C (Candle)
+[2022.05.31-08.21.22:237][719]LogEditorViewport: Clicking on Actor (LMB): Candle_C (Candle2)
+[2022.05.31-08.21.31:383][457]LogEditorViewport: Clicking on Actor (LMB): Candle_C (Candle3)
+[2022.05.31-08.21.40:188][162]LogEditorViewport: Clicking on Actor (LMB): Candle_C (Candle4)
+[2022.05.31-08.21.49:603][919]LogEditorViewport: Clicking on Actor (LMB): Candle_C (Candle5)
+[2022.05.31-08.21.57:886][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥197)
+[2022.05.31-08.22.03:867][ 64]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.05.31-08.22.03:878][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-08.22.03:878][ 64]PIE: New page: PIE 세션: EscapeRoom (2022. 6. 1. 오전 2:22:03)
+[2022.05.31-08.22.03:879][ 64]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.22.03:991][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113218s)
+[2022.05.31-08.22.03:993][ 64]LogAIModule: Creating AISystem for world EscapeRoom
+[2022.05.31-08.22.03:994][ 64]LogPlayLevel: PIE: World Init took: (0.001798s)
+[2022.05.31-08.22.03:994][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom to /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom (0.115276s)
+[2022.05.31-08.22.04:070][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.05.31-08.22.04:086][ 64]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.05.31-08.22.04:086][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-08.22.04:086][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-08.22.04:086][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-08.22.04:087][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-08.22.04:087][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-08.22.04:087][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-08.22.04:087][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-08.22.04:087][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-08.22.04:087][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-08.22.04:087][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-08.22.04:087][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-08.22.04:087][ 64]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-08.22.04:089][ 64]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-08.22.04:089][ 64]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-08.22.04:155][ 64]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.05.31-08.22.04:156][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-08.22.04:156][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-08.22.04:156][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-08.22.04:156][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-08.22.04:156][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-08.22.04:156][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-08.22.04:160][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-08.22.04:160][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-08.22.04:160][ 64]LogInit: FAudioDevice initialized.
+[2022.05.31-08.22.04:160][ 64]LogAudio: Display: Audio Device (ID: 26) registered with world 'EscapeRoom'.
+[2022.05.31-08.22.04:173][ 64]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.05.31-08.22.04:211][ 64]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom up for play (max tick rate 0) at 2022.05.31-17.22.04
+[2022.05.31-08.22.04:212][ 64]LogWorld: Bringing up level for play took: 0.029505
+[2022.05.31-08.22.04:212][ 64]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2022.05.31-08.22.04:215][ 64]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.31-08.22.04:220][ 64]LogStreaming: Warning: Failed to read file '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.05.31-08.22.04:231][ 64]PIE: 서버가 로그인했습니다.
+[2022.05.31-08.22.04:232][ 64]PIE: 에디터에서 플레이 총 시작 시간 0.356초입니다.
+[2022.05.31-08.22.07:732][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.22.07:732][250]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.22.07:734][250]LogWorld: UWorld::CleanupWorld for EscapeRoom, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.22.07:747][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.22.07:760][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-08.22.07:825][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.22.07:906][250]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-08.22.07:906][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.22.07:909][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.22.07:922][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.22.07:941][250]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.05.31-08.22.07:992][251]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2022.05.31-08.22.10:571][446]LogEditorViewport: Clicking on Actor (LMB): Candle_C (Candle5)
+[2022.05.31-08.22.31:790][ 78]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.05.31-08.22.31:797][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-08.22.31:797][ 78]PIE: New page: PIE 세션: EscapeRoom (2022. 6. 1. 오전 2:22:31)
+[2022.05.31-08.22.31:797][ 78]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.22.31:868][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070429s)
+[2022.05.31-08.22.31:869][ 78]LogAIModule: Creating AISystem for world EscapeRoom
+[2022.05.31-08.22.31:870][ 78]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2022.05.31-08.22.31:870][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom to /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom (0.072188s)
+[2022.05.31-08.22.31:922][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.05.31-08.22.31:929][ 78]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.05.31-08.22.31:929][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-08.22.31:929][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-08.22.31:929][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-08.22.31:929][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-08.22.31:929][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-08.22.31:929][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-08.22.31:929][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-08.22.31:929][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-08.22.31:930][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-08.22.31:930][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-08.22.31:930][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-08.22.31:930][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-08.22.31:931][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-08.22.31:932][ 78]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-08.22.31:989][ 78]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.05.31-08.22.31:990][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-08.22.31:990][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-08.22.31:990][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-08.22.31:990][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-08.22.31:990][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-08.22.31:990][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-08.22.31:991][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-08.22.31:992][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-08.22.31:992][ 78]LogInit: FAudioDevice initialized.
+[2022.05.31-08.22.31:992][ 78]LogAudio: Display: Audio Device (ID: 27) registered with world 'EscapeRoom'.
+[2022.05.31-08.22.32:002][ 78]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.05.31-08.22.32:026][ 78]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom up for play (max tick rate 0) at 2022.05.31-17.22.32
+[2022.05.31-08.22.32:027][ 78]LogWorld: Bringing up level for play took: 0.019855
+[2022.05.31-08.22.32:027][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2022.05.31-08.22.32:029][ 78]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.31-08.22.32:033][ 78]LogStreaming: Warning: Failed to read file '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.05.31-08.22.32:040][ 78]PIE: 서버가 로그인했습니다.
+[2022.05.31-08.22.32:042][ 78]PIE: 에디터에서 플레이 총 시작 시간 0.245초입니다.
+[2022.05.31-08.22.38:741][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.22.38:741][551]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.22.38:743][551]LogWorld: UWorld::CleanupWorld for EscapeRoom, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.22.38:757][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.22.38:776][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-08.22.38:838][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.22.38:933][551]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-08.22.38:935][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.22.38:938][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.22.38:946][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.22.38:957][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.05.31-08.22.38:991][552]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2022.05.31-08.23.03:194][500]LogEditorViewport: Clicking on Actor (LMB): Candle_C (Candle2)
+[2022.05.31-08.23.12:713][291]LogEditorViewport: Clicking on Actor (LMB): Candle_C (Candle3)
+[2022.05.31-08.23.34:779][128]LogEditorViewport: Clicking on Actor (LMB): Candle_C (Candle4)
+[2022.05.31-08.23.39:881][540]LogEditorViewport: Clicking on Actor (LMB): Candle_C (Candle5)
+[2022.05.31-08.23.53:602][636]LogEditorViewport: Clicking on Actor (LMB): Candle_C (Candle4)
+[2022.05.31-08.24.02:062][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (바닥176)
+[2022.05.31-08.24.10:004][990]LogEditorViewport: Clicking on Actor (LMB): PuzzleMaker_C (PuzzleMaker4)
+[2022.05.31-08.24.16:757][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DiningTable_a)
+[2022.05.31-08.24.17:783][601]Cmd: DELETE
+[2022.05.31-08.24.17:784][601]Cmd: ACTOR DELETE
+[2022.05.31-08.24.17:827][601]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.31-08.24.17:891][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.05.31-08.24.17:904][601]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2022.05.31-08.24.21:335][949]LogEditorViewport: Clicking on Actor (LMB): Paper_C (Paper)
+[2022.05.31-08.24.48:972][963]LogEditorViewport: Clicking on Actor (LMB): Paper_C (Paper8)
+[2022.05.31-08.24.51:339][145]LogEditorViewport: Clicking on Actor (LMB): Paper_C (Paper)
+[2022.05.31-08.25.03:138][ 37]Cmd: TRANSACTION UNDO
+[2022.05.31-08.25.03:138][ 37]LogEditorTransaction: Undo 액터 이동
+[2022.05.31-08.25.18:571][102]LogEditorViewport: Clicking on Actor (LMB): LighterFluid_C (LighterFluid)
+[2022.05.31-08.25.19:461][151]LogEditorViewport: Clicking on Actor (CTRL LMB): Lighter_C (Lighter)
+[2022.05.31-08.25.42:032][464]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.05.31-08.25.42:042][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-08.25.42:043][464]PIE: New page: PIE 세션: EscapeRoom (2022. 6. 1. 오전 2:25:42)
+[2022.05.31-08.25.42:043][464]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.25.42:164][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120753s)
+[2022.05.31-08.25.42:166][464]LogAIModule: Creating AISystem for world EscapeRoom
+[2022.05.31-08.25.42:166][464]LogPlayLevel: PIE: World Init took: (0.002145s)
+[2022.05.31-08.25.42:167][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom to /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom (0.123178s)
+[2022.05.31-08.25.42:247][464]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.05.31-08.25.42:261][464]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.05.31-08.25.42:261][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-08.25.42:261][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-08.25.42:261][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-08.25.42:261][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-08.25.42:261][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-08.25.42:261][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-08.25.42:261][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-08.25.42:261][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-08.25.42:262][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-08.25.42:262][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-08.25.42:262][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-08.25.42:262][464]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-08.25.42:264][464]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-08.25.42:264][464]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-08.25.42:320][464]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.05.31-08.25.42:321][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-08.25.42:321][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-08.25.42:321][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-08.25.42:322][464]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-08.25.42:322][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-08.25.42:322][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-08.25.42:324][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-08.25.42:324][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-08.25.42:324][464]LogInit: FAudioDevice initialized.
+[2022.05.31-08.25.42:324][464]LogAudio: Display: Audio Device (ID: 28) registered with world 'EscapeRoom'.
+[2022.05.31-08.25.42:341][464]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.05.31-08.25.42:377][464]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom.EscapeRoom up for play (max tick rate 60) at 2022.05.31-17.25.42
+[2022.05.31-08.25.42:377][464]LogWorld: Bringing up level for play took: 0.027596
+[2022.05.31-08.25.42:378][464]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2022.05.31-08.25.42:379][464]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.31-08.25.42:383][464]LogStreaming: Warning: Failed to read file '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.05.31-08.25.42:390][464]PIE: 서버가 로그인했습니다.
+[2022.05.31-08.25.42:390][464]PIE: 에디터에서 플레이 총 시작 시간 0.349초입니다.
+[2022.05.31-08.26.02:948][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.26.02:948][581]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_EscapeRoom
+[2022.05.31-08.26.02:950][581]LogWorld: UWorld::CleanupWorld for EscapeRoom, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.26.02:963][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.26.02:971][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-08.26.02:996][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-08.26.03:085][581]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-08.26.03:087][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.26.03:090][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.26.03:105][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-08.26.03:138][581]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2022.05.31-08.26.03:206][582]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2022.05.31-08.26.18:431][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.05.31-08.26.22:137][475]LogSlate: Window '콘텐츠 저장' being destroyed
+[2022.05.31-08.26.24:308][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.31-08.26.26:091][596]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.31-08.26.26:202][596]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.05.31-08.26.28:245][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.05.31-08.26.29:598][707]LogSlate: Window '콘텐츠 저장' being destroyed
+[2022.05.31-08.26.29:667][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3a308d3c6eef90b5ecd941b76b94d6c1" FILE="../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Content/3a308d3c6eef90b5ecd941b76b94d6c1.uasset" SILENT=true
+[2022.05.31-08.26.29:711][707]LogSavePackage: Moving '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/3a308d3c6eef90b5ecd941b76b94d6c12B5849F7498B020F23D2BEA6DC47353F.tmp' to '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Content/3a308d3c6eef90b5ecd941b76b94d6c1.uasset'
+[2022.05.31-08.26.29:743][707]LogSavePackage: Moving '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/3a308d3c6eef90b5ecd941b76b94d6c17FA690CD472715E58CCDFA9753C77FE6.tmp' to '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Content/3a308d3c6eef90b5ecd941b76b94d6c1_Mat.uasset'
+[2022.05.31-08.26.29:790][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.05.31-08.26.30:146][707]LogSavePackage: Moving '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Saved/EscapeRoomA621A58B40563996BB7D2A915C8B451B.tmp' to '../../../../../../Users/SW/Desktop/EscapeRoom/EscapeRoom-202010934/Content/HorrorEngine/Maps/EscapeRoom.umap'
+[2022.05.31-08.26.30:153][707]LogFileHelpers: Saving map 'EscapeRoom' took 0.408
+[2022.05.31-08.26.30:170][707]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.05.31-08.26.30:170][707]LogContentValidation: Display: World /Game/HorrorEngine/Maps/EscapeRoom.EscapeRoom 유효성 검사 중
+[2022.05.31-08.26.30:170][707]LogContentValidation: Display: Material /Game/3a308d3c6eef90b5ecd941b76b94d6c1_Mat.3a308d3c6eef90b5ecd941b76b94d6c1_Mat 유효성 검사 중
+[2022.05.31-08.26.30:170][707]LogContentValidation: Display: Texture2D /Game/3a308d3c6eef90b5ecd941b76b94d6c1.3a308d3c6eef90b5ecd941b76b94d6c1 유효성 검사 중
+[2022.05.31-08.27.42:324][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.31-08.27.43:524][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.05.31-08.27.43:566][ 88]LogSlate: Window 'HorrorEngine - 언리얼 에디터' being destroyed
+[2022.05.31-08.27.43:684][ 89]Cmd: QUIT_EDITOR
+[2022.05.31-08.27.43:684][ 89]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.31-08.27.43:690][ 89]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.31-08.27.43:920][ 89]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.31-08.27.43:920][ 89]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.31-08.27.43:920][ 89]LogAudio: Display: Audio Device unregistered from world 'EscapeRoom'.
+[2022.05.31-08.27.43:920][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.27.43:922][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-08.27.43:958][ 89]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.31-08.27.43:964][ 89]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft 입력기).
+[2022.05.31-08.27.43:970][ 89]LogExit: Preparing to exit.
+[2022.05.31-08.27.44:020][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2022.05.31-08.27.45:223][ 89]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:228][ 89]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:233][ 89]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:237][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:237][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:237][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:237][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:237][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:237][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:237][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:237][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:241][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:241][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:241][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:241][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:242][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:242][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:242][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:242][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:246][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:246][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:246][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:246][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:246][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:246][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:246][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:246][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:251][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:252][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:252][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:252][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:252][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:252][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:252][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:252][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:256][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:256][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:256][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:256][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:257][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:257][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:257][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:257][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:261][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:261][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:261][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:261][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:261][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:261][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:261][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:261][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:265][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:265][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:265][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:265][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:265][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:265][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:265][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:265][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:269][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:269][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:269][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:269][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:269][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:269][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:270][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:270][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:274][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:274][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:274][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:274][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:274][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:274][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:274][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:274][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:279][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:279][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:279][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:279][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:279][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:279][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:279][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:279][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:285][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:285][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:285][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:285][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:285][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:285][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:285][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:285][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:290][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:290][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:290][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:290][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:290][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:290][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:290][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:290][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:294][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:294][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:294][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:294][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:294][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:294][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:295][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:295][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:299][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:299][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:299][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:299][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:299][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:299][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:299][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:299][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:303][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:304][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:304][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:304][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:304][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:304][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:304][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:304][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:308][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:308][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:308][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:308][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:308][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:308][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:308][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:308][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:313][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:313][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:313][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:313][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:313][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:313][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:313][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:313][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:317][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:317][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:317][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:318][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:318][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:318][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:318][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:318][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:322][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:322][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:322][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:322][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:323][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:323][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:323][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:323][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:326][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:326][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:327][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:327][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:327][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:327][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:327][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:327][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:331][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:331][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:331][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:331][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:331][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:331][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:331][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:331][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:335][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:336][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:336][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:336][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:336][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:336][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:336][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:336][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:340][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:340][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:340][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:340][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:340][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:340][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:340][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:340][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:345][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:345][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:345][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:345][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:345][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:345][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:345][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:345][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:350][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:350][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:350][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:350][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:350][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:350][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:350][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:350][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:354][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:354][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:355][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:355][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:355][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:355][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:355][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:355][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:359][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:359][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:359][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:359][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:359][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:359][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:359][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:359][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:364][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:364][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:364][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:364][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:364][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:364][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:364][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:364][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:368][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:368][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:368][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:368][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:369][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:369][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:369][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:369][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:373][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:373][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:373][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:373][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:373][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:373][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:373][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:373][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:378][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:378][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:378][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:378][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:378][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:378][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:378][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:378][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:383][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:383][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:383][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:383][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:383][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:383][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:383][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:383][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:387][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:387][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:388][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:388][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:388][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:388][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:388][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:388][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:392][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:393][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:393][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:393][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:393][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:393][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:393][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:393][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:397][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:397][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:397][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:397][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:398][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:398][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:398][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:398][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:402][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:402][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:402][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:402][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:402][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:402][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:402][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:402][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:407][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:407][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:407][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:407][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:407][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:407][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:407][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:407][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:411][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:411][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:411][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:411][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:411][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:411][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:411][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:411][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:416][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:416][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:416][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:416][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:416][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:416][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:416][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:416][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:422][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:422][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:423][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:423][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:423][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:423][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:423][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:423][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:427][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:428][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:428][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:428][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:428][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:428][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:428][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:428][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:432][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:432][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:432][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:432][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:432][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:432][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:432][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:432][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:437][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:437][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:437][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:437][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:437][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:437][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:437][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:437][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:442][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:442][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:442][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:442][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:443][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:443][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:443][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:443][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:446][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:447][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:447][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:447][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:447][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:447][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:447][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:447][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:451][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:451][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:451][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:451][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:451][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:451][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:451][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:451][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:456][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:456][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:456][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:456][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:457][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:457][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:457][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:457][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:460][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:460][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:460][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:460][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:461][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:461][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:461][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:461][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:465][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:465][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:465][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:465][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:465][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:465][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:465][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:465][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:470][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:470][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:470][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:470][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:470][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:470][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:470][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:470][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:474][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:474][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:474][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:474][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:474][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:474][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:474][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:474][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:479][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:479][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:479][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:479][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:479][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:479][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:479][ 89]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.31-08.27.45:479][ 89]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:482][ 89]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:485][ 89]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-08.27.45:601][ 89]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.31-08.27.45:631][ 89]LogExit: Editor shut down
+[2022.05.31-08.27.45:710][ 89]LogExit: Transaction tracking system shut down
+[2022.05.31-08.27.46:882][ 89]LogExit: Object subsystem successfully closed.
+[2022.05.31-08.27.46:938][ 89]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.31-08.27.46:938][ 89]LogShaderCompilers: Display: Total job queries 29314, among them cache hits 28114 (95.91%)
+[2022.05.31-08.27.46:938][ 89]LogShaderCompilers: Display: Tracking 1184 distinct input hashes that result in 480 distinct outputs (40.54%)
+[2022.05.31-08.27.46:938][ 89]LogShaderCompilers: Display: RAM used: 3.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.38%
+[2022.05.31-08.27.46:938][ 89]LogShaderCompilers: Display: ================================================
+[2022.05.31-08.27.46:978][ 89]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.31-08.27.47:229][ 89]LogModuleManager: Shutting down and abandoning module TextureEditor (884)
+[2022.05.31-08.27.47:229][ 89]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (882)
+[2022.05.31-08.27.47:230][ 89]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (880)
+[2022.05.31-08.27.47:230][ 89]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (878)
+[2022.05.31-08.27.47:230][ 89]LogModuleManager: Shutting down and abandoning module BlueprintGraph (876)
+[2022.05.31-08.27.47:230][ 89]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2022.05.31-08.27.47:230][ 89]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2022.05.31-08.27.47:230][ 89]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.05.31-08.27.47:231][ 89]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.05.31-08.27.47:231][ 89]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.05.31-08.27.47:240][ 89]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.05.31-08.27.47:240][ 89]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.05.31-08.27.47:240][ 89]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.05.31-08.27.47:241][ 89]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.05.31-08.27.47:241][ 89]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.05.31-08.27.47:242][ 89]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.05.31-08.27.47:243][ 89]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.05.31-08.27.47:243][ 89]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.05.31-08.27.47:243][ 89]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2022.05.31-08.27.47:243][ 89]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (846)
+[2022.05.31-08.27.47:245][ 89]LogModuleManager: Shutting down and abandoning module TakeRecorder (845)
+[2022.05.31-08.27.47:247][ 89]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (842)
+[2022.05.31-08.27.47:248][ 89]LogModuleManager: Shutting down and abandoning module TakesCore (840)
+[2022.05.31-08.27.47:248][ 89]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.05.31-08.27.47:248][ 89]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.05.31-08.27.47:248][ 89]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.05.31-08.27.47:250][ 89]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.05.31-08.27.47:250][ 89]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.05.31-08.27.47:252][ 89]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.05.31-08.27.47:253][ 89]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2022.05.31-08.27.47:253][ 89]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (824)
+[2022.05.31-08.27.47:253][ 89]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (822)
+[2022.05.31-08.27.47:254][ 89]LogModuleManager: Shutting down and abandoning module WebMMedia (820)
+[2022.05.31-08.27.47:254][ 89]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (818)
+[2022.05.31-08.27.47:254][ 89]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (816)
+[2022.05.31-08.27.47:254][ 89]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (814)
+[2022.05.31-08.27.47:256][ 89]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (808)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (806)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (804)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (802)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (800)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (798)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (796)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module CharacterAI (794)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (792)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (790)
+[2022.05.31-08.27.47:258][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (788)
+[2022.05.31-08.27.47:259][ 89]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.05.31-08.27.47:259][ 89]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.05.31-08.27.47:259][ 89]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.05.31-08.27.47:260][ 89]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.05.31-08.27.47:261][ 89]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.05.31-08.27.47:261][ 89]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.05.31-08.27.47:261][ 89]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.05.31-08.27.47:262][ 89]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.05.31-08.27.47:264][ 89]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.05.31-08.27.47:264][ 89]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.05.31-08.27.47:267][ 89]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.05.31-08.27.47:267][ 89]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.05.31-08.27.47:267][ 89]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.05.31-08.27.47:267][ 89]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.05.31-08.27.47:267][ 89]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.05.31-08.27.47:267][ 89]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.05.31-08.27.47:267][ 89]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.05.31-08.27.47:269][ 89]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.05.31-08.27.47:270][ 89]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.05.31-08.27.47:272][ 89]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.05.31-08.27.47:273][ 89]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.05.31-08.27.47:274][ 89]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.05.31-08.27.47:274][ 89]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.05.31-08.27.47:274][ 89]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.05.31-08.27.47:274][ 89]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.05.31-08.27.49:072][ 89]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.05.31-08.27.49:072][ 89]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.05.31-08.27.49:072][ 89]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.05.31-08.27.49:072][ 89]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.05.31-08.27.49:072][ 89]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.05.31-08.27.49:075][ 89]MemoryProfiler: Shutdown
+[2022.05.31-08.27.49:075][ 89]NetworkingProfiler: Shutdown
+[2022.05.31-08.27.49:075][ 89]LoadingProfiler: Shutdown
+[2022.05.31-08.27.49:075][ 89]TimingProfiler: Shutdown
+[2022.05.31-08.27.49:076][ 89]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.05.31-08.27.49:078][ 89]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.05.31-08.27.49:078][ 89]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.05.31-08.27.49:078][ 89]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.05.31-08.27.49:078][ 89]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.05.31-08.27.49:079][ 89]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.05.31-08.27.49:079][ 89]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.05.31-08.27.49:079][ 89]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.05.31-08.27.49:079][ 89]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.05.31-08.27.49:079][ 89]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.05.31-08.27.49:079][ 89]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.05.31-08.27.49:080][ 89]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.05.31-08.27.49:080][ 89]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.05.31-08.27.49:080][ 89]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.05.31-08.27.49:080][ 89]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.05.31-08.27.49:080][ 89]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.05.31-08.27.49:080][ 89]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.05.31-08.27.49:080][ 89]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.05.31-08.27.49:080][ 89]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.05.31-08.27.49:081][ 89]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.05.31-08.27.49:081][ 89]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.05.31-08.27.49:081][ 89]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.05.31-08.27.49:114][ 89]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.05.31-08.27.49:114][ 89]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.05.31-08.27.49:115][ 89]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.05.31-08.27.49:116][ 89]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.05.31-08.27.49:116][ 89]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.05.31-08.27.49:116][ 89]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.05.31-08.27.49:116][ 89]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.05.31-08.27.49:116][ 89]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.05.31-08.27.49:117][ 89]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.05.31-08.27.49:117][ 89]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.05.31-08.27.49:117][ 89]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.05.31-08.27.49:135][ 89]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.05.31-08.27.49:135][ 89]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.05.31-08.27.49:135][ 89]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.05.31-08.27.49:135][ 89]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.05.31-08.27.49:135][ 89]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.05.31-08.27.49:135][ 89]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.05.31-08.27.49:136][ 89]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.05.31-08.27.49:140][ 89]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.05.31-08.27.49:141][ 89]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.05.31-08.27.49:141][ 89]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.05.31-08.27.49:141][ 89]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.05.31-08.27.49:141][ 89]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.05.31-08.27.49:141][ 89]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.05.31-08.27.49:142][ 89]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.05.31-08.27.49:142][ 89]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.05.31-08.27.49:142][ 89]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.05.31-08.27.49:142][ 89]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.05.31-08.27.49:142][ 89]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.05.31-08.27.49:142][ 89]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.05.31-08.27.49:142][ 89]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.05.31-08.27.49:142][ 89]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.05.31-08.27.49:142][ 89]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.05.31-08.27.49:143][ 89]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.05.31-08.27.49:143][ 89]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.05.31-08.27.49:143][ 89]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.05.31-08.27.49:143][ 89]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.05.31-08.27.49:143][ 89]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.05.31-08.27.49:228][ 89]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.05.31-08.27.49:229][ 89]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.05.31-08.27.49:229][ 89]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.05.31-08.27.49:230][ 89]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.05.31-08.27.49:230][ 89]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.05.31-08.27.49:230][ 89]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.05.31-08.27.49:230][ 89]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.05.31-08.27.49:230][ 89]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.05.31-08.27.49:231][ 89]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2022.05.31-08.27.49:231][ 89]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2022.05.31-08.27.49:231][ 89]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (586)
+[2022.05.31-08.27.49:231][ 89]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (584)
+[2022.05.31-08.27.49:231][ 89]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (582)
+[2022.05.31-08.27.49:231][ 89]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (580)
+[2022.05.31-08.27.49:232][ 89]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (578)
+[2022.05.31-08.27.49:232][ 89]LogModuleManager: Shutting down and abandoning module LiveLink (576)
+[2022.05.31-08.27.49:692][ 89]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (574)
+[2022.05.31-08.27.49:694][ 89]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (572)
+[2022.05.31-08.27.49:694][ 89]LogModuleManager: Shutting down and abandoning module OpenXREditor (570)
+[2022.05.31-08.27.49:694][ 89]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (568)
+[2022.05.31-08.27.49:694][ 89]LogModuleManager: Shutting down and abandoning module TakeSequencer (566)
+[2022.05.31-08.27.49:694][ 89]LogModuleManager: Shutting down and abandoning module TakeMovieScene (564)
+[2022.05.31-08.27.49:694][ 89]LogModuleManager: Shutting down and abandoning module ScreenshotTools (562)
+[2022.05.31-08.27.49:694][ 89]LogModuleManager: Shutting down and abandoning module EditableMesh (560)
+[2022.05.31-08.27.49:694][ 89]LogModuleManager: Shutting down and abandoning module GooglePAD (558)
+[2022.05.31-08.27.49:694][ 89]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (556)
+[2022.05.31-08.27.49:694][ 89]LogModuleManager: Shutting down and abandoning module CableComponent (554)
+[2022.05.31-08.27.49:694][ 89]LogModuleManager: Shutting down and abandoning module AudioCapture (552)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (551)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module AssetTags (548)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (546)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (544)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module AppleImageUtils (542)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module AndroidPermission (540)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (538)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (536)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module TemplateSequence (534)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (532)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (530)
+[2022.05.31-08.27.49:695][ 89]LogOpenImageDenoise: OIDN shutting down
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (528)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module MotoSynth (526)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module MeshConversion (524)
+[2022.05.31-08.27.49:695][ 89]LogModuleManager: Shutting down and abandoning module DynamicMesh (522)
+[2022.05.31-08.27.49:696][ 89]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (520)
+[2022.05.31-08.27.49:696][ 89]LogModuleManager: Shutting down and abandoning module GeometricObjects (518)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module MediaCompositing (516)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module ImgMedia (514)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (512)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (511)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (508)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (506)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (504)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (502)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (500)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module ChaosNiagara (498)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module FractureEditor (496)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (495)
+[2022.05.31-08.27.49:697][ 89]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (492)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module BackChannel (490)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (488)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module AutomationUtils (486)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module AlembicImporter (484)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module AlembicLibrary (483)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module GeometryCache (482)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (481)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (476)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (474)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (472)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (470)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (468)
+[2022.05.31-08.27.49:698][ 89]LogModuleManager: Shutting down and abandoning module PluginBrowser (466)
+[2022.05.31-08.27.49:700][ 89]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (464)
+[2022.05.31-08.27.49:700][ 89]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (462)
+[2022.05.31-08.27.49:700][ 89]LogModuleManager: Shutting down and abandoning module CurveEditorTools (460)
+[2022.05.31-08.27.49:701][ 89]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (458)
+[2022.05.31-08.27.49:701][ 89]LogModuleManager: Shutting down and abandoning module CryptoKeys (456)
+[2022.05.31-08.27.49:701][ 89]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (454)
+[2022.05.31-08.27.49:702][ 89]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (452)
+[2022.05.31-08.27.49:702][ 89]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (450)
+[2022.05.31-08.27.49:703][ 89]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (448)
+[2022.05.31-08.27.49:703][ 89]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (446)
+[2022.05.31-08.27.49:703][ 89]LogModuleManager: Shutting down and abandoning module UObjectPlugin (444)
+[2022.05.31-08.27.49:703][ 89]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (442)
+[2022.05.31-08.27.49:704][ 89]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (440)
+[2022.05.31-08.27.49:704][ 89]LogModuleManager: Shutting down and abandoning module PluginUtils (438)
+[2022.05.31-08.27.49:704][ 89]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (436)
+[2022.05.31-08.27.49:705][ 89]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (434)
+[2022.05.31-08.27.49:706][ 89]LogModuleManager: Shutting down and abandoning module GitSourceControl (432)
+[2022.05.31-08.27.49:706][ 89]LogModuleManager: Shutting down and abandoning module SourceControl (431)
+[2022.05.31-08.27.49:707][ 89]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (428)
+[2022.05.31-08.27.49:707][ 89]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (426)
+[2022.05.31-08.27.49:707][ 89]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (424)
+[2022.05.31-08.27.49:707][ 89]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2022.05.31-08.27.49:707][ 89]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.05.31-08.27.49:707][ 89]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.05.31-08.27.49:707][ 89]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.05.31-08.27.49:708][ 89]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.05.31-08.27.49:708][ 89]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.05.31-08.27.49:709][ 89]LogModuleManager: Shutting down and abandoning module SignificanceManager (410)
+[2022.05.31-08.27.49:709][ 89]LogModuleManager: Shutting down and abandoning module SoundFields (408)
+[2022.05.31-08.27.49:709][ 89]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.05.31-08.27.49:709][ 89]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.05.31-08.27.49:709][ 89]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.05.31-08.27.49:709][ 89]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.05.31-08.27.49:709][ 89]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.05.31-08.27.49:709][ 89]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.05.31-08.27.49:709][ 89]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2022.05.31-08.27.49:709][ 89]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (390)
+[2022.05.31-08.27.49:709][ 89]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2022.05.31-08.27.49:810][ 89]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2022.05.31-08.27.49:911][ 89]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2022.05.31-08.27.49:911][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2022.05.31-08.27.49:911][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2022.05.31-08.27.49:911][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2022.05.31-08.27.49:911][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2022.05.31-08.27.49:912][ 89]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (358)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (356)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module FacialAnimation (354)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module DataValidation (352)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (350)
+[2022.05.31-08.27.49:912][ 89]LogModuleManager: Shutting down and abandoning module Niagara (348)
+[2022.05.31-08.27.49:913][ 89]LogModuleManager: Shutting down and abandoning module SignalProcessing (347)
+[2022.05.31-08.27.49:913][ 89]LogModuleManager: Shutting down and abandoning module NiagaraEditor (345)
+[2022.05.31-08.27.49:914][ 89]LogModuleManager: Shutting down and abandoning module NiagaraCore (342)
+[2022.05.31-08.27.49:914][ 89]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2022.05.31-08.27.49:914][ 89]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2022.05.31-08.27.49:917][ 89]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2022.05.31-08.27.49:917][ 89]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2022.05.31-08.27.49:918][ 89]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2022.05.31-08.27.49:918][ 89]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2022.05.31-08.27.49:918][ 89]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2022.05.31-08.27.49:918][ 89]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2022.05.31-08.27.49:918][ 89]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2022.05.31-08.27.49:918][ 89]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2022.05.31-08.27.49:919][ 89]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2022.05.31-08.27.49:919][ 89]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2022.05.31-08.27.49:919][ 89]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.05.31-08.27.49:919][ 89]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.05.31-08.27.49:919][ 89]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.05.31-08.27.49:919][ 89]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.05.31-08.27.49:920][ 89]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.05.31-08.27.49:960][ 89]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.05.31-08.27.49:961][ 89]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.05.31-08.27.49:961][ 89]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.05.31-08.27.49:961][ 89]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.05.31-08.27.49:961][ 89]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.05.31-08.27.49:961][ 89]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.05.31-08.27.49:961][ 89]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.05.31-08.27.49:961][ 89]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.05.31-08.27.49:961][ 89]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.05.31-08.27.49:961][ 89]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.05.31-08.27.49:962][ 89]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.05.31-08.27.49:962][ 89]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.05.31-08.27.49:962][ 89]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.05.31-08.27.49:962][ 89]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.05.31-08.27.49:963][ 89]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.05.31-08.27.49:963][ 89]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.05.31-08.27.49:963][ 89]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.05.31-08.27.49:964][ 89]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.05.31-08.27.49:964][ 89]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.05.31-08.27.49:965][ 89]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.05.31-08.27.49:965][ 89]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.05.31-08.27.49:966][ 89]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.05.31-08.27.49:966][ 89]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.05.31-08.27.49:966][ 89]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.05.31-08.27.49:966][ 89]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.05.31-08.27.49:966][ 89]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.05.31-08.27.49:966][ 89]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.05.31-08.27.49:967][ 89]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.05.31-08.27.49:967][ 89]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.05.31-08.27.49:967][ 89]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.05.31-08.27.49:967][ 89]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.05.31-08.27.49:967][ 89]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.05.31-08.27.49:968][ 89]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.05.31-08.27.49:969][ 89]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.05.31-08.27.49:974][ 89]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.05.31-08.27.49:974][ 89]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.05.31-08.27.49:974][ 89]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.05.31-08.27.49:975][ 89]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.05.31-08.27.49:975][ 89]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.05.31-08.27.49:975][ 89]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.05.31-08.27.49:975][ 89]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.05.31-08.27.49:976][ 89]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.05.31-08.27.49:976][ 89]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.05.31-08.27.49:976][ 89]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.05.31-08.27.49:977][ 89]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.05.31-08.27.49:977][ 89]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.05.31-08.27.49:977][ 89]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.05.31-08.27.49:977][ 89]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.05.31-08.27.49:978][ 89]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.05.31-08.27.49:978][ 89]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.05.31-08.27.49:978][ 89]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.05.31-08.27.49:978][ 89]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.05.31-08.27.49:979][ 89]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.05.31-08.27.49:979][ 89]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.05.31-08.27.49:979][ 89]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.05.31-08.27.49:979][ 89]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.05.31-08.27.49:979][ 89]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.05.31-08.27.49:979][ 89]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.05.31-08.27.49:979][ 89]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.05.31-08.27.49:979][ 89]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.05.31-08.27.49:979][ 89]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.05.31-08.27.49:979][ 89]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.05.31-08.27.49:979][ 89]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.05.31-08.27.49:980][ 89]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.05.31-08.27.49:980][ 89]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.05.31-08.27.49:980][ 89]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.05.31-08.27.49:980][ 89]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.05.31-08.27.49:980][ 89]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.05.31-08.27.50:000][ 89]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.05.31-08.27.50:000][ 89]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.05.31-08.27.50:000][ 89]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.05.31-08.27.50:000][ 89]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.05.31-08.27.50:000][ 89]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.05.31-08.27.50:007][ 89]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.05.31-08.27.50:007][ 89]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.05.31-08.27.50:007][ 89]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.05.31-08.27.50:007][ 89]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.05.31-08.27.50:007][ 89]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.05.31-08.27.50:007][ 89]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.05.31-08.27.50:007][ 89]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.05.31-08.27.50:007][ 89]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.05.31-08.27.50:007][ 89]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.05.31-08.27.50:024][ 89]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.05.31-08.27.50:087][ 89]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.05.31-08.27.50:087][ 89]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.05.31-08.27.50:087][ 89]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.05.31-08.27.50:087][ 89]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.05.31-08.27.50:087][ 89]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.05.31-08.27.50:088][ 89]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.05.31-08.27.50:088][ 89]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.05.31-08.27.50:088][ 89]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.05.31-08.27.50:088][ 89]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.05.31-08.27.50:089][ 89]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.05.31-08.27.50:089][ 89]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.05.31-08.27.50:089][ 89]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.05.31-08.27.50:089][ 89]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.05.31-08.27.50:089][ 89]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.31-08.27.50:089][ 89]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.05.31-08.27.50:089][ 89]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2022.05.31-08.27.50:089][ 89]LogModuleManager: Shutting down and abandoning module OpenXRAR (106)
+[2022.05.31-08.27.50:090][ 89]LogModuleManager: Shutting down and abandoning module AugmentedReality (105)
+[2022.05.31-08.27.50:090][ 89]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (102)
+[2022.05.31-08.27.50:090][ 89]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.31-08.27.50:090][ 89]LogModuleManager: Shutting down and abandoning module OpenXRHMD (101)
+[2022.05.31-08.27.50:091][ 89]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.05.31-08.27.50:091][ 89]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.05.31-08.27.50:092][ 89]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.05.31-08.27.50:092][ 89]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2022.05.31-08.27.50:092][ 89]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.05.31-08.27.50:093][ 89]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.05.31-08.27.50:094][ 89]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.05.31-08.27.50:113][ 89]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.05.31-08.27.50:113][ 89]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.31-08.27.50:113][ 89]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF0F1E433-43B0-BEF1-82FD-0AB25F66F4A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d0deeb3341ead6612f2e1c9683847d72%7C0511687141e0468c9f99dfac7f790ea8%7Ce68eb6b7-658b-480e-a255-4d6a6edec4f2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.31-08.27.50:113][ 89]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.05.31-08.27.50:120][ 89]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.05.31-08.27.50:123][ 89]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.05.31-08.27.50:125][ 89]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.05.31-08.27.50:127][ 89]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.05.31-08.27.50:128][ 89]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.05.31-08.27.50:128][ 89]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.05.31-08.27.50:128][ 89]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.05.31-08.27.50:128][ 89]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.05.31-08.27.50:128][ 89]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.05.31-08.27.50:128][ 89]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.05.31-08.27.50:129][ 89]LogXGEController: Cleaning working directory: C:/Users/SW/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.05.31-08.27.50:129][ 89]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.05.31-08.27.50:129][ 89]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.05.31-08.27.50:130][ 89]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.05.31-08.27.50:130][ 89]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.05.31-08.27.50:130][ 89]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.05.31-08.27.50:130][ 89]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.05.31-08.27.50:130][ 89]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.05.31-08.27.50:134][ 89]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.31-08.27.50:134][ 89]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.31-08.27.50:135][ 89]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.31-08.27.50:135][ 89]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.31-08.27.50:135][ 89]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.31-08.27.50:135][ 89]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.31-08.27.50:135][ 89]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.31-08.27.50:135][ 89]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.31-08.27.50:135][ 89]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.31-08.27.50:136][ 89]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.31-08.27.50:136][ 89]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.31-08.27.50:158][ 89]LogD3D11RHI: Shutdown
+[2022.05.31-08.27.50:159][ 89]LogD3D11RHI: CleanupD3DDevice
+[2022.05.31-08.27.50:168][ 89]LogExit: Exiting.
+[2022.05.31-08.27.50:187][ 89]Log file closed, 05/31/22 17:27:50
